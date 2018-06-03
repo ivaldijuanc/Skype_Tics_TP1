@@ -1,1 +1,2 @@
+Skype fue creado en varios lenguajes de programacion. Delphi , Objetive C, C++, Object Pascar y Javascript.
 
