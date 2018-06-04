@@ -1,0 +1,26 @@
+SKYPE: Lider absoluto en voz por IP en la web
+cantidad de usuarios 170 millones
+valor comercial: 8500 millones de dolares
+dueño: Microsoft
+que ofrece? VOz, video y texto por IP gratis e instantaneo
+producto Skype Out comunicacion a telefonos fijos y moviles a muy bajo costo. desviacion de llamadas de la pc al movil, servicio de buzon de voz.
+video conferecias entre varios usuarios.
+Fortaleza: comunicaciones gratuita por Voz y video en la web y cantidad de usuarios.
+Ventajas : Facil instalacion, multiplataforma , no se neceista reconfiguarar nada, alta calidad, alta seguridad, servicio innovador
+Desventajas contactos indeseados,  algunos serivicios son pagos.
+modelo de negocios: cuanta haya mas usuarios menores van a ser los costos.No tiene costo el alta del usuario.
+Competidores Principales : Viber, Face time, Messenger, Google Duo.
+Porque Skype es mejor ? porque tiene lo mejor en materia de sofware. Son innovadores. 
+Tabla comparativa de los servicios entre los principales competidores
+
+                                Skype			Facetime		Viber	    Messenger		Duo		
+llamadas gratis                  si				si				si			si				si
+mendsajes						  si			no				si			si				si
+necsita numero de telefonos		no				si				si			si				si			
+identificacion personalizada    si				no				NO			NO				SI	
+alta cantidad de usuarios		SI				SI				SI			SI				NO
+llamadas en grupo				si				no				no			si				no
+android							si				no				si			si				si	
+
+
+
