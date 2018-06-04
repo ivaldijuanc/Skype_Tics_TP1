@@ -22,5 +22,38 @@ alta cantidad de usuarios		SI				SI				SI			SI				NO
 llamadas en grupo				si				no				no			si				no
 android							si				no				si			si				si	
 
+tiene un prometedor futuro como uno de los pilares de la estrategia de servicios en la nube de Microsoft.
+
+Un poco de historia de Skype
 
 
+Hace dos años, en una operación que generó bastante revuelo, Microsoft compró Skype e integró el servicio dentro de sus operaciones como una división
+
+
+Los orígenes de Skype
+
+ el danés Janus Friis y el sueco Niklas Zennström, creadores de Kazaa, decidieron explorar la posibilidad de extender
+ el uso del P2P a las comunicaciones por voz y vídeo. 
+ Basándose en este planteamiento, en Tallín (Estonia), Priit Kasesalu, Jaan Tallinn y Ahti Heinla abordaron el desarrollo técnico de la idea y, 
+ en agosto de 2003, desarrollaron la primera versión de Skype.
+
+ Las redes P2P permiten el intercambio directo de información, en cualquier formato, entre los ordenadores interconectados.
+ En septiembre de 2005, eBay adquirió Skype por 2.600 millones de dólares; una operación en la que los fundadores seguían vinculados a la compañía
+ y que eBay iba a hacer crecer. Durante esta época, Skype dotó al servicio de videoconferencia en Mac y también estableció uno de sus primeros planes de 
+ precios para realizar llamadas telefónica
+ En febrero de 2008
+ osh Silverman sería nombrado CEO de la empresa y, durante su mandato, la compañía se enfocó en mejorar sus servicios de videoconferencia y consolidar
+ las operaciones de Skype. El plan funcionó y el servicio se revitalizó, hasta tal punto, que volvió a ser atractivo para el mercado y los inversores.
+ En abril de 2009, eBay anunció que pondria a la  venta el 70% de Skype y, con esta operación,
+ entrarían en escena Silver Lake Partners (que se quedaría con el 65% de Skype), Joltid, CPPIB y Andreessen Horowitz.
+ Silver Lake Partners sería la propietaria de la mayor parte de Skype hasta mayo de 2011, momento en el que Microsoft hizo efectiva la compra de
+ la compañía por 8.500 millones de dólares. Tony Bates, que llegó como CEO a Skype, procedente de CISCO, en octubre de 2010, siguió vinculado a Skype 
+ como máximo responsable de la nueva división de Microsoft y, tal y como hemos podido comprobar, el servicio es una pieza importante dentro de la estrategia 
+ de Microsoft.
+ Skype, hoy en día, es algo más que un servicio de mensajería; es una plataforma que dota de servicios de voz a particulares y empresas de todo el mundo, 
+ cursa un tercio de las llamadas internacionales que se realizan en el planeta, ha sustentado las videollamadas de Facebook y, 
+ como prueba de su buena salud, tiene una media de 300 millones de usuarios activos al mes y que cursan comunicaciones en la plataforma 
+ de un equivalente de más de dos mil millones de minutos cada día.
+ 
+ Proximo servicio novedoso:
+ Con la nueva version Skype puede realizar llamadas desde lo numeros que se publican en las paginas web, sean fijos o moviles.
