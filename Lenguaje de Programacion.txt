@@ -1,2 +1,2 @@
 Skype fue creado en varios lenguajes de programacion. Delphi , Objetive C, C++, Object Pascar y Javascript.
-
+El motivo se debe a las multiples plataformas a la que este de adapta.
