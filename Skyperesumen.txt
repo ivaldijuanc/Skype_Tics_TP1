@@ -57,3 +57,117 @@ Los orígenes de Skype
  
  Proximo servicio novedoso:
  Con la nueva version Skype puede realizar llamadas desde lo numeros que se publican en las paginas web, sean fijos o moviles.
+ 
+ SERVICIOS De Skype
+ 
+ Llamadas entre usuarios de Skype
+Llama gratis a cualquier usuario de Skype, en cualquier parte del mundo.
+Llamadas a teléfonos fijos y móviles
+Llama a teléfonos fijos y móviles de todo el mundo a tarifas económicas.
+Llamadas grupales
+Reúne a un grupo de personas en una llamada. Puedes agregar hasta 25 personas.
+Número de Skype
+Tus amigos te llaman a un número y tú les respondes en Skype, desde cualquier lugar del mundo.
+Desviar llamadas
+¿No estás en Skype o no puedes contestar? Solo tienes que desviar tus llamadas a un teléfono.
+Identificación de llamadas
+No seas un número desconocido... Permite que las personas sepan que eres tú quien llama.
+Skype To Go
+Llama a números internacionales desde cualquier teléfono a tarifas económicas.
+
+Vídeo
+Vídeo
+
+Optimiza tus conversaciones con las características de vídeo de Skype.
+
+Videochat
+Mantente en contacto con una conversación cara a cara.
+Videollamadas grupales
+Reúne a un grupo de amigos al mismo tiempo en una videollamada.
+
+Mensajes
+
+Envía un mensaje rápido prácticamente a cualquier persona. Con las opciones de voz, texto, vídeo y fotos, puedes conectar con los que más te importan, aunque no tengas tiempo para una llamada.
+
+Emoticonos y Mojis
+Descubre formas nuevas y divertidas de expresarte en un chat de Skype.
+Mensajes de vídeo
+Envía un mensaje que se pueda ver, escuchar y sentir.
+Mensajería instantánea
+Usa los dedos para hablar: cotillea, planifica un viaje, trabaja en un proyecto, todo en un instante.
+Enviar mensajes (SMS)
+Envía mensajes de texto a tus amigos desde la comodidad de tu teclado.
+Mensajes de voz
+¿Demasiado ocupado para hablar? Deja que Skype recoja tus mensajes.
+GroupMe
+Comparte mensajes, fotos y tu ubicación desde tu teléfono móvil.
+
+Compartir
+
+Concede acceso a tus contactos a tus archivos, fotos, vídeos y mucho más. Gracias a la posibilidad de compartir de más maneras, podrás mantener a todos informados, comprometidos y actualizados.
+
+Enviar archivos
+Envía archivos, fotos y vídeos de cualquier tamaño a través de Skype. Solo tienes que arrastrar o agregar el archivo a tu chat de Skype.
+Pantalla compartida
+Comparte la pantalla de tu PC con la persona con la que hablas.
+Pantalla compartida grupal
+Haz que todos vean lo mismo en una videollamada grupal.
+Enviar contactos
+Comparte fácilmente un contacto, un número y un nombre de usuario.
+
+Otras características de Skype
+
+¿Qué más puede hacer Skype? Descúbrelo con su amplia gama de características, que se han diseñado para ayudarte a conectarte en cualquier momento y lugar, 
+y de la manera que mejor te convenga.
+
+Skype Connect
+Haz llamadas de Skype a través de tu sistema PBX con SIP.
+Skype para Outlook.com
+Convierte un chat en una videollamada con un solo clic y sin salir de tu bandeja de entrada.
+Botón Contactar conmigo
+Agrega un botón a tu sitio web o a tu blog y, con un clic, cualquier persona podrá llamarte o enviarte un mensaje instantáneo.
+Botón Compartir
+Haz que los usuarios hablen del contenido de tu sitio web y lo compartan.
+Skype Translator
+¿Quieres chatear con alguien que habla otro idioma? Traduce las llamadas, las videollamadas y los mensajes instantáneos.
+Extensión de Skype
+Obtén acceso rápido a las características de Skype, como compartir desde el explorador.
+¿Necesitas ayuda? En nuestra sección de ayuda encontrarás preguntas frecuentes, guías para usuarios e instrucciones de configuración.
+
+
+
+Innovaciones para ayudaros a realizar más cosas
+
+Este ha sido un año de grandes innovaciones en Skype, con nuevas funciones, bots y dispositivos diseñados para mejorar sus experiencias día a día.
+
+Skype Bots. En 2017 presentamos diversos bots nuevos con capacidades expandidas para ayudarlos a hacer lo que sea,
+¡Desde cocinar la cena perfecta hasta correr hasta la línea de meta con algunos de los atletas más exitosos en todo el mundo,
+ o unirse a Doctor Who en una aventura para salvar el universo! El próximo año, estén al pendiente de nuevas experiencias
+ más productivas y enriquecedoras desde Skype.
+
+Skype Professional Account Preview. Este año también estableció un hito para los profesionales independientes que ya utilizan Skype para comunicarse con 
+sus clientes. El cliente de escritorio de Skype Professional Account (en la actualidad como versión de prueba en los Estados Unidos) provee nuevas y poderosas 
+funciones a Skype, lo que facilita bastante el manejar su negocio. Además de conocer a sus clientes a través de Skype, ahora pueden organizar reuniones, 
+aceptar pagos y guardar notas, todo en un mismo lugar.
+
+Skype Translator. Skype Translator ya está disponible para llamadas en video o voz en tiempo real en japonés, que aumenta a 10 el número de lenguas habladas en 
+tiempo
+ real. Los otros idiomas disponibles en Skype Translator son: inglés, español, francés, alemán, chino (mandarín), italiano, portugués (brasileño), árabe y ruso. 
+ Además, también hay más de 60 idiomas disponibles para mensajes instantáneos para Skype Translator.
+
+Dispositivos de ambiente. Este año, Skype se expandió de manera oficial hasta los dispositivos de ambiente, lo cual provee una plataforma nueva, 
+única e inteligente para las llamadas de Skype que van más allá de las PC y dispositivos móviles. El altavoz Harman Kardon Invoke junto con Cortana, 
+es el primero de estos dispositivos integrados con llamadas de Skype más sencillas y con activación de voz para su lista de contactos de Skype, 
+telefónicos y negocios locales.
+
+Junto con las llamadas entre cuentas de Skype, las cuales son gratis, Invoke también provee llamadas de salida desde los Estados Unidos a dispositivos
+ móviles y números fijos en los Estados Unidos, Canadá, México, Puerto Rico, Guam, Samoa Americana, Islas Marianas del Norte, y las Islas Vírgenes de 
+ los Estados Unidos. 
+ 
+ Skype Lite y SMS Insights. Para nuestros de clientes de Skype Android en India, presentamos Skype Lite, una nueva y ligera versión de la aplicación de Skype,
+ optimizada para soportar una conexión de red inestable de hasta 2G. Y basado en sus comentarios, agregamos SMS Insights a Skype Lite, lo cual facilita 
+ aún más la vida de las personas que viajan. SMS Insights va más allá de sólo organizar sus mensajes, integra la información que necesiten y la presenta 
+ de manera rápida, además de clasificarla en categorías como Finanzas, Compras, Viajes, Recordatorios y Promociones. Pueden interactuar de manera sencilla 
+ con los mensajes que desean mientras
+ que Insights les ofrece enlaces de acción relevante que les permitirán pagar cuentas, revisar vuelos e incluso llamar a números de soporte para los clientes.
+
