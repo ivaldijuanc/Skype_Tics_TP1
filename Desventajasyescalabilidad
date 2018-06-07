@@ -16,3 +16,21 @@ nosotros no participamos en él».
 
 Otro aspecto para tener en cuenta es que si el usuario desea cancelar su cuenta en Skype, 
 encuentra multitud de obstáculos para poder hacerlo,colocados intencionadamente por la propia empresa
+
+Skype utiliza el algoritmo AES de 256-bit para cifrar la voz, los archivos transferidos o el mensaje instantáneo:
+En octubre de 2005, Adi Shamir y otros dos investigadores presentaron un artículo demostrando varios ataques 
+de tiempos de caché contra AES. Uno de los ataques obtuvo una clave de AES entera después de tan solo 800 escrituras,
+en 65 milisegundos. Este ataque requiere que el atacante pueda ejecutar programas en el mismo sistema que realiza el 
+cifrado de AES.
+la versión pagada se utiliza el algoritmo RSA de 2048-bit para el acceso a correo de voz y de 1536-bit durante
+la negociación para establecer la conexión. Para ello utilizan una clave asimétrica, que permite evitar ataques del 
+tipo man-in-the-middle.
+
+EL ataque man in the middle:
+En criptografía, un ataque de intermediario (man-in-the-middle, MitM o JANUS) es un ataque en el que se adquiere
+la capacidad de leer, insertar y modificar a voluntad. El atacante debe ser capaz de observar e interceptar mensajes 
+entre las dos víctimas y procurar que ninguna de las víctimas conozca que el enlace entre ellos ha sido violado.
+El ataque MitM es particularmente significativo en el protocolo original de intercambio de claves de Diffie-Hellman, 
+cuando éste se emplea sin autenticación.Hay ciertas situaciones donde es bastante simple, por ejemplo, un atacante 
+dentro del alcance de un punto de acceso wifi sin cifrar, donde éste se puede insertar como intermediario.
+
