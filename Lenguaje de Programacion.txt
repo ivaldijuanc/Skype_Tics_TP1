@@ -1,4 +1,1 @@
-Skype fue desarrolldo en base al lenguaje Pascal con el usao de librerias de bibliotecas Delphi para que pueda ser utilizado con sistema operativo Windows y debido al avance del software libre como es el caso de GNU/Linux, la herrameita siguio su desarrollo tambien con librerias QT derivadas de C++.
-
-Skype fue creado en varios lenguajes de programacion. Delphi , Objetive C, C++, Object Pascal y Javascript.
-El motivo se debe a las multiples plataformas a la que este de adapta.
+Skype fue desarrolldo en base al lenguaje Pascal con el uso de Delphi, un producto tipo RAD(Rapid Aplication Development) originalemte desarrollado por Borland y actualmente por Embarcadero, para que pueda ser utilizado con sistema operativo Windows aunque las ultimas versiones tambien generan ejecutables para MacOs, Lunix y .NET.
