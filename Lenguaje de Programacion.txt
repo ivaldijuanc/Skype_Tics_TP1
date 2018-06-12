@@ -1,3 +1,44 @@
-Skype fue desarrolldo en sus inicios con QT, biblioteca multiplataforma para desarrollar aplicaciones utilizando el lenguaje C++ pero a los dos meses de salida la primera versión se adopto el uso de Delphi, un producto tipo RAD(Rapid Aplication Development) originalemte desarrollado por Borland y actualmente por Embarcadero, para que pueda ser utilizado con sistema operativo Windows aunque las ultimas versiones tambien generan ejecutables para MacOs, Lunix y .NET.
+Skype fue desarrolldo en sus inicios con QT, biblioteca multiplataforma para desarrollar aplicaciones utilizando el lenguaje C++ pero a los
+dos meses de salida la primera versión se adopto el uso de Delphi, un producto tipo RAD(Rapid Aplication Development) originalemte
+desarrollado por Borland y actualmente por Embarcadero, para que pueda ser utilizado con sistema operativo Windows aunque las ultimas
+versiones tambien generan ejecutables para MacOs, Lunix y .NET.
 
-Las versiones móviles están escritas en el idioma nativo compatible con esas plataformas, por lo que el cliente de iOS está escrito en Objective C, Android en Java, Windows Phone en C #. Las versiones móviles utilizan bibliotecas C ++ similares, pero optimizadas para dispositivos móviles, en el escritorio para las funciones básicas de llamadas. Las otras plataformas (Mac, XBox, Sony Smart TV, etc.) usan el lenguaje de desarrollo nativo para la plataforma dada y bibliotecas C ++ similares.
+Las versiones móviles están escritas en el idioma nativo compatible con esas plataformas, por lo que el cliente de iOS está escrito en
+Objective C, Android en Java, Windows Phone en C #. Las versiones móviles utilizan bibliotecas C ++ similares, pero optimizadas para
+dispositivos móviles, en el escritorio para las funciones básicas de llamadas. Las otras plataformas (Mac, XBox, Sony Smart TV, etc.) usan
+el lenguaje de desarrollo nativo para la plataforma dada y bibliotecas C ++ similares.
+
+Seguridad y privacidad en Skype
+
+– Cifrado de datos:
+
+Los protocolos utilizados normalmente en internet (TCP y UDP) no proporcionan ningún mecanismo de cifrado (los datos del emisor viajan a través de la red hasta el receptor en claro, es decir, sin ningún algoritmo de cifrado, ni simétrico ni asimétrico como pudisteis ver en anteriores artículos de esta web). De esta forma, al enviar nuestra clave viajaría sin cifrar y cualquier sniffer la podría capturar (Wireshark por ejemplo). La confidencialidad es muy importante en algunos casos, y éste es uno de ellos, para ello se ha creado una mejora para TCP, que es el SSL, esta mejora se implementa en la capa de aplicación.
+
+Cuando iniciamos sesión en Skype, toda la información se envía mediante SSL. El protocolo de seguridad SSL cifra toda la información antes de enviarla y solo Skype puede descifrarla. Este tipo de tecnología se usa habitualmente, por ejemplo, en bancos, pagos electrónicos, al loguearse en los servicios de correo electrónico para proteger nuestra privacidad y mantener la confidencialidad.
+
+Skype usa algoritmos de cifrado basados en normas acreditadas para evitar que las comunicaciones de los usuarios de Skype caigan en manos de delincuentes y piratas informáticos. De esa manera, Skype ayuda a asegurar la privacidad del usuario y la integridad de los datos que un usuario le envía a otro.
+
+Al loguearnos, Skype nos proporciona una clave de sesión de 192bits y esta clave está cifrada con 1536bits de clave RSA para formar la clave de sesión cifrada (Algoritmo de clave asimétrica). Skype también forma una pareja de clave pública/privada RSA de 1024bits, un hash SHA1 (160bits de longitud, mirad el artículo sobre hash) para el nombre de usuario y la contraseña es usada como llave compartida con el servidor. La clave de sesión normal usa un cifrado simétrico AES de 256bits (muy fuerte) para cifrar la clave pública y la llave compartida, entonces se envía al servidor de Skype quien descifrará los datos.
+
+Skype Cifrado Datos
+
+Skype también utiliza los certificados digitales para garantizar aún más que estés conversando con quien piensas. A todas las personas que utilizan Skype se les envía este certificado digital que forma parte de la protección ofrecida para garantizar que únicamente tú uses tu cuenta de Skype y para asegurar que terceros no se hagan pasar por ti.
+
+– Certificados digitales:
+
+Skype emite a cada usuario un “certificado digital” que se utiliza para establecer y confirmar la identidad de la persona que hace o recibe la llamada o el mensaje instantáneo de Skype.
+
+¿Qué es un Certificado Digital?
+
+Un certificado digital es una credencial electrónica que puede usarse para establecer la identidad de un usuario, en cualquier lugar en que se encuentre ese usuario. El certificado digital debe:
+
+– Nombrar la cuenta específica que se identifica.
+– Ser emitido por una autoridad que pueda revocar el certificado en cualquier momento.
+– Ser difícil de falsificar.
+– Contener un aval de la autoridad que lo emite; en este caso, Skype.
+
+Autenticación:
+
+Puesto que todos los usuarios de Skype poseen credenciales digitales, cualquier usuario de Skype puede verificar la identidad de otro usuario. Para acceder al certificado digital, es necesario confirmar tu nombre de usuario de Skype y tu contraseña.
+
+La autenticación es crucial a la hora de garantizar comunicaciones seguras. Imagínate que tienes una conversación con alguien que afirmó ser un compañero de trabajo, pero en realidad es un impostor. Aunque la conversación esté sumamente cifrada, aún sería probable la divulgación de información privada.
