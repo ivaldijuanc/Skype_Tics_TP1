@@ -1,0 +1,49 @@
+Escalabilidad: Es una propiedad deseable en un sistema red o proceso , 
+que indica su habilidad para reaccionar y adaptarse sin perder calidad, 
+o bien manejar el crecimiento de manera fluida ,
+o estar preparado para hacerce mas grande sin perder calidad en sus servicios 
+
+La agencia de inteligencia estadounidense Agencia de Seguridad Nacional (NSA)
+monitoriza las conversaciones de Skype mediante el sistema de vigilancia electrónica PRISM.
+Prism:es el nombre que recibe un programa clandestino de vigilancia electrónica operado por
+la Agenciade Seguridad Nacional de los Estados Unidos (NSA) para la recogida masiva de comunicaciones
+procedentes de al menos nueve grandes compañías estadounidenses de Internet.
+La declaracion de microsoft con respecto a esto fue:
+«Nosotros proveemos datos de los clientes cuando recibimos una orden judicial o una citación para hacerlo
+y nunca de forma voluntaria. Adicionalmente, solo cumplimos con peticiones acerca de cuentas o identificadores 
+específicos. Si el Gobierno tiene un programa nacional de seguridad para recopilar datos de clientes voluntariamente,
+nosotros no participamos en él».
+
+Otro aspecto para tener en cuenta es que si el usuario desea cancelar su cuenta en Skype, 
+encuentra multitud de obstáculos para poder hacerlo,colocados intencionadamente por la propia empresa
+
+Skype utiliza el algoritmo AES de 256-bit para cifrar la voz,también conocido como Rijndael, que utiliza el gobierno de EE. UU.
+para proteger información confidencial. Skype siempre ha utilizado el cifrado máximo de 256 bits. 
+los archivos transferidos o el mensaje instantáneo:
+En octubre de 2005, Adi Shamir y otros dos investigadores presentaron un artículo demostrando varios ataques 
+de tiempos de caché contra AES. Uno de los ataques obtuvo una clave de AES entera después de tan solo 800 escrituras,
+en 65 milisegundos. Este ataque requiere que el atacante pueda ejecutar programas en el mismo sistema que realiza el 
+cifrado de AES.
+la versión pagada se utiliza el algoritmo RSA de 2048-bit para el acceso a correo de voz y de 1536-bit durante
+la negociación para establecer la conexión. Para ello utilizan una clave asimétrica, que permite evitar ataques del 
+tipo man-in-the-middle.
+
+EL ataque man in the middle:
+En criptografía, un ataque de intermediario (man-in-the-middle, MitM o JANUS) es un ataque en el que se adquiere
+la capacidad de leer, insertar y modificar a voluntad. El atacante debe ser capaz de observar e interceptar mensajes 
+entre las dos víctimas y procurar que ninguna de las víctimas conozca que el enlace entre ellos ha sido violado.
+El ataque MitM es particularmente significativo en el protocolo original de intercambio de claves de Diffie-Hellman, 
+cuando éste se emplea sin autenticación.Hay ciertas situaciones donde es bastante simple, por ejemplo, un atacante 
+dentro del alcance de un punto de acceso wifi sin cifrar, donde éste se puede insertar como intermediario.
+
+
+Historial de fallas de skype
+la empresa de seguridad Vulnerability Lab ha descubierto una nueva vulnerabilidad en este software de mensajería,
+registrada como CVE-2017-9948, que puede permitir a un atacante realizar un desbordamiento de búfer mientras se está
+realizando una llamada grupal, permitiendo al atacante ejecutar código directamente en la memoria del sistema.
+Esta vulnerabilidad afecta a las versiones 7.2, 7.35 y 7.36 de Skype en los sistemas operativos de Microsoft desde 
+Windows XP hasta Windows 10, por lo que todos los usuarios de este cliente de mensajería están, o más bien, han estado
+expuestos a ataques informáticos ya que, desde principios de junio, la vulnerabilidad ya ha sido solucionada, 
+concretamente en la versión 7.37 de Skype.
+link de video del funcionamiento de la falla de seguridad
+https://www.youtube.com/watch?v=VUx2TSJ36-g&feature=youtu.be
