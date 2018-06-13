@@ -17,7 +17,9 @@ nosotros no participamos en él».
 Otro aspecto para tener en cuenta es que si el usuario desea cancelar su cuenta en Skype, 
 encuentra multitud de obstáculos para poder hacerlo,colocados intencionadamente por la propia empresa
 
-Skype utiliza el algoritmo AES de 256-bit para cifrar la voz, los archivos transferidos o el mensaje instantáneo:
+Skype utiliza el algoritmo AES de 256-bit para cifrar la voz,también conocido como Rijndael, que utiliza el gobierno de EE. UU.
+para proteger información confidencial. Skype siempre ha utilizado el cifrado máximo de 256 bits. 
+los archivos transferidos o el mensaje instantáneo:
 En octubre de 2005, Adi Shamir y otros dos investigadores presentaron un artículo demostrando varios ataques 
 de tiempos de caché contra AES. Uno de los ataques obtuvo una clave de AES entera después de tan solo 800 escrituras,
 en 65 milisegundos. Este ataque requiere que el atacante pueda ejecutar programas en el mismo sistema que realiza el 
@@ -34,3 +36,14 @@ El ataque MitM es particularmente significativo en el protocolo original de inte
 cuando éste se emplea sin autenticación.Hay ciertas situaciones donde es bastante simple, por ejemplo, un atacante 
 dentro del alcance de un punto de acceso wifi sin cifrar, donde éste se puede insertar como intermediario.
 
+
+Historial de fallas de skype
+la empresa de seguridad Vulnerability Lab ha descubierto una nueva vulnerabilidad en este software de mensajería,
+registrada como CVE-2017-9948, que puede permitir a un atacante realizar un desbordamiento de búfer mientras se está
+realizando una llamada grupal, permitiendo al atacante ejecutar código directamente en la memoria del sistema.
+Esta vulnerabilidad afecta a las versiones 7.2, 7.35 y 7.36 de Skype en los sistemas operativos de Microsoft desde 
+Windows XP hasta Windows 10, por lo que todos los usuarios de este cliente de mensajería están, o más bien, han estado
+expuestos a ataques informáticos ya que, desde principios de junio, la vulnerabilidad ya ha sido solucionada, 
+concretamente en la versión 7.37 de Skype.
+link de video del funcionamiento de la falla de seguridad
+https://www.youtube.com/watch?v=VUx2TSJ36-g&feature=youtu.be
