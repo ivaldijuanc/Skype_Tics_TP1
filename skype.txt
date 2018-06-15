@@ -1,0 +1,102 @@
+SKYPE para que sirve y un poco de su historia.
+
+es un software propietario distribuido por Microsoft tras haber comprado
+ la compañía homónima y que permite comunicaciones de texto, voz y vídeo sobre Internet (VoIP). 
+ Fue diseñado en 2003 por el danés Janus Friis y el sueco Niklas Zennström (también creadores de Kazaa) y desarrollada en su 
+ solución técnica por los estonios Priit Kasesalu, Ahti Heinla y Jaan Tallinn, ya que de hecho Skype nació en Tallin, Estonia.8​
+ El código y protocolo de Skype permanecen cerrados y son privativos de la aplicación, pero los usuarios interesados pueden descargar 
+ gratuitamente la aplicación ejecutable del sitio web oficial. Los usuarios de 
+Skype pueden hablar entre sí gratuitamente.
+kype es un software que permite comunicaciones de texto, voz y vídeo sobre Internet (VoIP). Tiene la finalidad de conectar a los usuarios vía 
+texto (mensajería instantánea), voz (VoIP) o vídeo. Una de sus fortalezas es la comunicación gratuita por voz y video entre usuarios de Skype desde y hacia 
+cualquier punto del mundo. También permite realizar llamadas especiales, a muy bajo costo, entre computadoras y la red de telefonía fija o móvil.
+
+Se puede utilizar de las siguientes formas:
+
+Comunicación gratuita por texto, voz o vídeo entre dos usuarios de Skype con computadores personales conectados a Internet.
+Requiere registro y aceptación de las condiciones del servicio, sin costo.
+Comunicación grupal o conferencia de voz gratuita (videoconferencia grupal es de pago) entre varios usuarios de Skype, todos ellos con 
+PC conectados a Internet. Requiere registro sin costo.
+Generación de llamadas de voz a bajo costo desde un usuario de Skype con PC conectado a Internet, hacia teléfonos de red fija o móvil. Requiere contrato 
+de pago, mensual o anual.
+Comunicación y envío de datos a bajo costo (texto y gráficos) desde un usuario de Skype con PC conectado a Internet hacia equipos de fax (o computadoras 
+con software de fax) conectados a redes de telefonía fija. Requiere contrato de pago.
+Llamadas de voz a tarifa de llamada local desde teléfonos de red fija o móvil al número telefónico de un usuario abonado a Skype con PC conectado a Internet. 
+Si el usuario receptor no está disponible, Skype ofrece un servicio de contestador automático. Requiere contrato de pago por parte del receptor. Las llamadas
+generadas desde teléfonos móviles pagan las tarifas locales del servicio celular.
+Comunicación y envío de datos a tarifa de llamada local desde equipos de fax conectados a redes de telefonía fija hacia un abonado de Skype con PC conectado a 
+Internet. Requiere contrato de pago por parte del receptor.
+Comunicación por desvío telefónico y de texto a bajo costo desde teléfonos de red fija o celular hacia un abonado de Skype con PC conectado a Internet. Requiere 
+contrato de pago por parte del receptor.
+Skype al contar con los servicios de voz, datos, fax, contestador automático, conferencia y videollamada, puede mantener comunicación sin costo y a bajo costo, 
+entre usuarios de Skype, teléfonos móviles, teléfonos de red fija, fax, videoconferencias y obviamente texto, entre los usuarios en ambas direcciones 
+comunicacionales.
+También, Skype permite el desvío de llamadas y mensajes de texto, lo cual significa que los usuarios del sistema con número telefónico Skype asignado, pueden
+recibir las llamadas o mensajes directamente en su computadora, o generar el desvío de estos a un teléfono móvil o bien de red fija, en el caso de llamadas.
+kype al contar con los servicios de voz, datos, fax, contestador automático, conferencia y videollamada, puede mantener comunicación sin costo y a bajo costo,
+entre usuarios de Skype, teléfonos móviles, teléfonos de red fija,
+ fax, videoconferencias y obviamente texto, entre los usuarios en ambas direcciones comunicacionales.
+
+También, Skype permite el desvío de llamadas y mensajes de texto, lo cual significa que los usuarios del sistema
+con número telefónico Skype asignado, pueden recibir las llamadas o mensajes directamente en su computadora,
+ o generar el desvío de estos a un teléfono móvil o bien de red fija, en el caso de llamadas.
+ kype es fácil y rápido de instalar.
+Llamadas telefónicas gratuitas a otros usuarios de Skype en cualquier parte del mundo.
+Funciona con todos los cortafuegos, NAT y router. Nada que reconfigurar.
+Las llamadas con Skype tienen una alta calidad de sonido y son altamente seguras.
+Skype funciona en la mayoría de los equipos: Windows, Mac OS X, Linux y Pocket Out.
+
+ 
+
+Desventajas:
+
+Tener contactos no deseados.
+Para llamar a teléfonos fijos se tiene que pagar.
+El buzón de voz tampoco es gratuito.
+Obtener algún virus al descargarlo al no obtenerlo de la página adecuada.
+Algunas veces ocurre la mala resolución del sonido y de video.
+Skype, historia de una empresa codiciada
+Tecnología
+24 May 2011 - 9:43 PM
+Durante los primeros días de mayo, Microsoft apostó por esta firma tecnológica al 
+comprarla por $8.500 millones de dólares. Sus 170 millones de usuarios ratifican su valor. El pasado 10 de mayo, Microsoft anunció la adquisición tecnológica
+ más grande en su historia, al pagar $8.500 millones de dólares por Skype, el principal servicio de voz sobre IP existente en la web. La suma desembolsada por 
+ este servicio de telefonía por internet se produjo luego de que se filtrara en los medios que tanto Google como Facebook estarían interesados en la compañía y
+ mantenían conversaciones con ésta para una posible adquisición o fusión con la firma tecnológica. Dado el elevado precio que pagó la compañía de Bill Gates por
+ Skype, en momentos en que Apple y Google cada día ganan más fuerza en el mundo de la tecnología, conviene preguntarse, ¿por qué importa tanto Skype? 
+ Este servicio utiliza el protocolo de internet para transmitir voz, datos y vídeo, conocido como tecnología VoIP, y permite así mantener conversaciones 
+ en audio y vídeo gratuitas entre usuarios de todo el mundo, así como con teléfonos fijos y móviles con tarifas muy competitivas. Skype también permite 
+ establecer videoconferencias entre dos o más usuarios y su software gratuito tanto en ordenadores como en diversos tipos de teléfonos móviles y otros
+ dispositivos inalámbricos. De concepción a adquisición A lo largo de su historia, enmarcada entre inversiones, ofertas y ventas de la compañía, Skype 
+ sigue siendo una de las grandes y apetecidas firmas en el mundo de la tecnología. Transcurría 2003 cuando Skype fue fundada por el sueco Niklas Zennström y 
+ el danés Janus Friiswhose, creadores de Kazaa, un software concebido para compartir música y películas. Para 2005, el sitio de subastas de productos a 
+ través de internet eBay compró Skype por 2.600 millones de dólares. Antes de que finalizara ese mismo año, la compañía presentó uno de sus servicios 
+ insignia: la video llamada. Durante 2006 Skype alcanzó los 100 millones de usuarios en el mundo. En el mismo año, lanzó la versión 3.0 de su software
+ para Windows y la 2.0 para Mac. Pero como en el mundo cambiante de la tecnología no todo puede ser ‘color de rosas’, en 2008 empezaron los conflictos 
+ con eBay. Por un lado, el servicio implementado para potenciar las comunicaciones entre compradores y vendedores, dentro del servicio de subastas en línea,
+ no estaba dejando los réditos esperados. Por el otro, los antiguos desarrolladores del sistema demandaron a eBay porque las licencias usadas por éste habían
+ caducado. En 2009, eBay terminó vendiendo el 70% de Skype por $2.750 millones de dólares al grupo Silver Lake Partners. En 2010, la empresa reportó pérdidas
+ netas por $6,9 millones de dólares. De todos modos, está claro que el valor de Skype no se mide por sus ganancias, que no crecen de la misma forma que su 
+ popularidad. Con sus 170 millones de usuarios conectados, Skype es el servicio más utilizado de telefonía sobre IP y esa es una razón nada despreciable para 
+ que Microsoft, que poco a poco espera integrar este servicio a sus plataformas Outlook, Windows Live Messenger y Xbox, se decidiera por una inversión de ese 
+ tamaño por esta compañía, en momentos en los que este gigante busca aumentar su penetración afanosamente en la web. Historia de Skype,
+ Skype frente a otros programas de telefonía 
+
+A pesar del enorme éxito de Skype, la tecnología VoIP nunca ha conocido tanta competencia como en la hora actual. Existen otras alternativas propuestas hoy 
+en día, como MediaRing, Net2Phone o Wengo. Este constante desafío, hace que los usuarios deban elegir, y fomenta una competencia a diversos niveles (desde 
+el diseño del software hasta las tarifas aplicadas). En conclusión, existen cada vez más soluciones alternativas que pueden hacer tambalear el reinado de
+ Skype.
+ Es innegable que Skype representa en la actualidad lo mejor en materia de software basado en tecnología VoIP. Sin embargo, debe y deberá hacer frente a la competencia cada vez más feroz que se presenta en el mercado, ya sea que se trate de programas de telefonía en línea de otros competidores, programas convergentes (mensajería instantánea) u ofertas de operadores de telefonía a través de planes que incluyen llamadas gratuitas e internet. 
+
+En términos de software de telefonía, la mejor opción sigue siendo Skype, por la calidad de sus servicios y de las comunicaciones (incluso con computadoras de calidad dudosa). No obstante, Skype no está libre de la mala publicidad. El año pasado, por ejemplo, ha sido prohibido en universidades y centros de investigación por considerarlo un software poco seguro (por la posibilidad de escuchas ilegales y piratería de perfiles). 
+
+La multiplicación de ofertas de los operadores de telefonía e internet podría, en un futuro, costarle caro a Skype. Pero si este software hace lo que vino haciendo hasta el día de hoy, impulsar su tecnología y continuar ofreciendo servicios innovadores, logrará mantener su hegemonía. Ya sabemos que la próxima versión de Skype (la 2.6, ya disponible en versión beta) ofrecerá la oportunidad de llamar a cualquier número que aparece en una página web, además de intercambiar favoritos y acceder a cualquier Skypecast desde la interfaz del programa. 
+
+Seguramente, la guerra de VoIP está sólo en sus comienzos, y queda mucho por ver... 
+
+
+
+
+
+
+ 
