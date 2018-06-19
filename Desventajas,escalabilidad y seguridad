@@ -28,6 +28,7 @@ la versión pagada se utiliza el algoritmo RSA de 2048-bit para el acceso a corr
 la negociación para establecer la conexión. Para ello utilizan una clave asimétrica, que permite evitar ataques del 
 tipo man-in-the-middle.
 
+
 EL ataque man in the middle:
 En criptografía, un ataque de intermediario (man-in-the-middle, MitM o JANUS) es un ataque en el que se adquiere
 la capacidad de leer, insertar y modificar a voluntad. El atacante debe ser capaz de observar e interceptar mensajes 
