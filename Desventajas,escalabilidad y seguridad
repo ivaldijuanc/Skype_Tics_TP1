@@ -37,6 +37,14 @@ El ataque MitM es particularmente significativo en el protocolo original de inte
 cuando éste se emplea sin autenticación.Hay ciertas situaciones donde es bastante simple, por ejemplo, un atacante 
 dentro del alcance de un punto de acceso wifi sin cifrar, donde éste se puede insertar como intermediario.
 
+Descripcion algoritmo aes:
+Estrictamente hablando, AES no es precisamente Rijndael (aunque en la práctica se los llama de manera indistinta) 
+ya que Rijndael permite un mayor rango de tamaño de bloques y longitud de claves; AES tiene un tamaño de bloque fijo 
+de 128 bits y tamaños de llave de 128, 192 o 256 bits, mientras que Rijndael puede ser especificado por una clave que
+sea múltiplo de 32 bits, con un mínimo de 128 bits y un máximo de 256 bits.
+La mayoría de los cálculos del algoritmo AES se hacen en un campo finito determinado.
+AES opera en una matriz de 4×4 bytes, llamada state (algunas versiones de Rijndael con un
+tamaño de bloque mayor tienen columnas adicionales en el state).
 
 Historial de fallas de skype
 la empresa de seguridad Vulnerability Lab ha descubierto una nueva vulnerabilidad en este software de mensajería,
